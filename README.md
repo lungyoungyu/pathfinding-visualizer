@@ -1,4 +1,14 @@
+# Pathfinding Visualizer
+
+Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action as I learn them. I really enjoyed building this visualization tool, and I hope you have as much fun playing around with it as I did. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Algorithms
+
+This application supports the following algorithms:
+
+***Dijkstra's Algorithm*** (weighted): "the father of pathfinding algorithms;" find the shortest path between nodes in a graph
 
 ## Available Scripts
 
