@@ -77,4 +77,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-I got help getting started with this application from AlgoExpert founder and YouTuber, Clément Mihailescu.
+This application was inspired by AlgoExpert founder and YouTuber, Clément Mihailescu.
